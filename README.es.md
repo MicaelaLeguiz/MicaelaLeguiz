@@ -1,9 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.png">
-    <img src="./assets/banner.png" alt="Micaela Leguizamon · Data Analyst" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-en.png">
+    <img src="./assets/banner-en.png" alt="Micaela Leguizamon · Data Analyst" width="100%">
   </picture>
 </p>
+<p align="right"><a href="./README.md"> View English version</a></p>
 
 # ¿De qué sirve un tesoro en el fondo del mar? 🌊
 
@@ -17,9 +18,9 @@ Mi trabajo es sacarlos a la superficie, ayudarlos a contar su historia y convert
 
 ## 👋 Hola, soy Mica
 
-💡 **Analista de Datos** que viene del mundo del UX Research y el diseño de experiencia. Antes me dedicaba a entender personas, ahora uso ese mismo ojo para entender datos y traducirlos en dashboards que se usan de verdad
+💡 Creo que los datos, por sí solos, no cambian nada. Cuando se entienden y se utilizan bien, ayudan a comprender qué está pasando, descubrir nuevas oportunidades y tomar decisiones con mayor confianza
 
-Me gusta convertir la complejidad en algo claro y útil. No me alcanza con presentar información, quiero que quien la lea sepa qué hacer con ella
+Por eso disfruto transformar la complejidad en algo claro y útil. Mi objetivo no es simplemente presentar información, sino ayudar a descubrir su valor y convertirla en mejores decisiones
 
 ## 🚀 Sobre mí
 
@@ -110,4 +111,5 @@ Todo viaje empieza con una conversación. Ya sea que estés buscando sumar a alg
 
 📄 [CV en español](https://drive.google.com/file/d/1Y9rFJdzsMHq6VtpDi-Qv30o6ny8Dw0lv/view?usp=sharing)
 
-Gracias por llegar hasta acá. Los datos hablan todos los días. La diferencia está en saber escucharlos
+Gracias por llegar hasta acá!
+Los datos hablan todos los días. La diferencia está en saber escucharlos
