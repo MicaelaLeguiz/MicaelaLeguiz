@@ -109,7 +109,7 @@ Todo viaje empieza con una conversación. Ya sea que estés buscando sumar a alg
 
 🌐 [Mi sitio web](https://micaelaleguiz.framer.website/)
 
-📄 [CV en español](https://drive.google.com/file/d/1Y9rFJdzsMHq6VtpDi-Qv30o6ny8Dw0lv/view?usp=sharing)
+📄 [CV en español](https://drive.google.com/drive/folders/107m5X_u63KJHfZUO9UkGVeJ9TANhliXu?usp=sharing)
 
 Gracias por llegar hasta acá!
 Los datos hablan todos los días. La diferencia está en saber escucharlos
