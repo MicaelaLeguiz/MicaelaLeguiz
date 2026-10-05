@@ -112,4 +112,5 @@ I analyzed the existing data models, wrote SQL queries, validated requirements w
 📄 [Resume in English](https://drive.google.com/drive/folders/1BTWbuRfrViok8ARXXqehf8Xd6V_tjHz-?usp=sharing)
 
 Thanks for stopping by
+
 Data speaks every day. The real difference is knowing how to listen
