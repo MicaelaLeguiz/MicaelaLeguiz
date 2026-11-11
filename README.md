@@ -11,7 +11,7 @@
 
 Very little... until someone discovers it
 
-Data works the same way. Every day it generates information, reveals patterns, and uncovers opportunities, yet they often stay hidden among thousands of records
+Data works the same way. Every day it generates information, reveals patterns, and uncovers opportunities, yet so much of that value remains hidden among thousands of records
 
 My job is to bring that value to the surface, help the data tell its story, and turn it into something anyone can understand and use to make decisions
 
@@ -19,9 +19,9 @@ My job is to bring that value to the surface, help the data tell its story, and 
 
 ## 👋 Hi, I'm Mica
 
-I believe data, on its own, doesn't change anything. When it's understood and used well, it helps people understand what's happening, uncover new opportunities, and make decisions with greater confidence
+I believe data, on its own, doesn't change anything. When interpreted and used well, it helps people see what's happening, uncover new opportunities, and make decisions with greater confidence
 
-That's why I enjoy turning complexity into something clear and useful. My goal isn't just to present information, it's to help people uncover its value and turn it into better decisions
+That's why I enjoy turning complexity into something clear and useful. My goal isn't just to present information, but to help people uncover its value and use it to make better decisions
 
 ## 🚀 About me
 
@@ -52,7 +52,7 @@ That's why I enjoy turning complexity into something clear and useful. My goal i
 
 ## 💎 Featured projects
 
-### 📊 From 12 reports to one trusted source · Unified economic dashboard
+### 📊 From 12 reports to one trusted source · Unified financial dashboard
 
 I brought key financial metrics (EBITDA, contribution margin, and budget execution) into a single dashboard, so teams can analyze business units and departments in one place
 
@@ -70,8 +70,8 @@ I helped implement a new data pipeline (the automatic path that moves data from 
 
 I worked with the Data Engineer to define business rules and data requirements. Then I designed a Power BI dashboard and validated it with stakeholders to monitor quality across teams and agents
 
-- 📐 Defined KPIs for quality variables and sub-variables
-- 🤝 Business definitions aligned between Data Engineering and stakeholders
+- 📐 Defined KPIs for quality variables and subvariables
+- 🤝 Data sources and business rules validated with Data Engineering and stakeholder
 
 ### 🔄 I didn't just migrate, I rethought the reports · BI4Web → Power BI
 
@@ -87,10 +87,10 @@ I analyzed the existing data models, wrote SQL queries, validated requirements w
 | | Step | What I do |
 |---|---|---|
 | 01 | **Listen** | I meet with stakeholders to understand the problem |
-| 02 | **Analyze** | I explore the available data and identify what information is needing |
+| 02 | **Analyze** | I explore the available data and identify what's missing |
 | 03 | **Design** | I define KPIs, metrics, and visualizations that answer real business questions |
 | 04 | **Build** | I turn data into a working solution using SQL, Power BI, Power Query, and DAX |
-| 05 | **Validate** | I validate the solution with users, refine it, and make sure it answers the right questions |
+| 05 | **Validate** | I validate the solution, make sure it answers the right questions, and adjust it as needed |
 | 06 | **Decide** | The solution stops being just a report and starts driving better decisions |
 
 ## 🤝 Collaboration & mindset
@@ -99,9 +99,9 @@ I analyzed the existing data models, wrote SQL queries, validated requirements w
 
 🌱 Curiosity · continuous learning · adaptability · initiative · analytical thinking · user-centered approach · cross-functional collaboration
 
-## 📫 Shall we talk?
+## 📫 Let's talk!
 
-🚢 Every journey begins with a conversation. Whether you're hiring, facing a business challenge, or simply want to exchange ideas, I'd love to meet you and start the journey together, discovering everything your data has to say
+🚢 Every journey begins with a conversation. Whether you're exploring a hiring opportunity, facing a business challenge, or simply looking to exchange ideas, I'd love to connect and discover everything your data has to say
 
 📧 [micaela.leguiz@gmail.com](mailto:micaela.leguiz@gmail.com)
 
